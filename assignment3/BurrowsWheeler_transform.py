@@ -1,4 +1,4 @@
-#Maria Vittoria Cavicchioli assignemnt 3
+#Maria Vittoria Cavicchioli assignment 3
 #Burrows-Wheeler transform of a string and string matching implementation
 
 def rotations(t):
