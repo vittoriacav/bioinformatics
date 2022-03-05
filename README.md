@@ -1,6 +1,6 @@
 # bioinformatics_project
 
-:books: "Bioinfomratics" assignments (Genomics, UniBo)
+:books: "Bioinformatics" assignments (Genomics, UniBo)
 
 ## Assignment 1 ##
 
