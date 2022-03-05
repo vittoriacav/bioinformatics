@@ -1,4 +1,4 @@
-#Maria Vittoria Cavicchioli assignemnt 1
+#Maria Vittoria Cavicchioli assignment 1
 #Smith & Waterman algorithm (local alignment)
 
 """This module will be used later to copy the initialized matrix into another
