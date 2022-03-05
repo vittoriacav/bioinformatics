@@ -1,0 +1,3 @@
+Download:
+`chr22.fa` --> ftp://hgdownload.cse.ucsc.edu/goldenPath/hg19/chromosomes/chr22.fa.gz
+`cpg_islands.txt` --> http://www.haowulab.org/software/makeCGI/model-based-cpg-islands-hg19.txt
